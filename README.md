@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I’m currently working as Cloud & DevOps Engineer on cloud services such as Microsoft Azure , AWS 
+@ <a href="https://www.linkedin.com/company/deop/" target="_blank">Deop.Inc</a> 
+
+I’m currently learning Terraform ( IaC ) , Azure Infrastructure 
+
+📫 You can contact me through ;
+
+
+ <a href="https://www.linkedin.com/in/h-kaan-turgut-a6935424a/" target="_blank">My Linkedln Profile</a> 
+
+
 <!--
 **hkaanturgut/hkaanturgut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
