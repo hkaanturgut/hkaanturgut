@@ -14,7 +14,7 @@ I’m currently learning Terraform ( IaC ) , Azure Infrastructure
 📫 You can contact me through ;
 
 
- <a href="https://www.linkedin.com/in/h-kaan-turgut-a6935424a/" target="_blank">My Linkedln Profile</a> 
+ <a href="https://www.linkedin.com/in/kaanturgut/" target="_blank">My Linkedln Profile</a> 
 
 
 <!--
