@@ -6,10 +6,18 @@
 
 ### Hi there 👋
 
-I’m currently working as Cloud & DevOps Engineer on cloud services such as Microsoft Azure , AWS 
+I’m currently working as a Multi-Cloud & DevOps Engineer with the knowledge of multi-cloud providers such as Microsoft Azure , AWS and Google Cloud
 @ <a href="https://www.linkedin.com/company/deop/" target="_blank">Deop.Inc</a> 
 
-I’m currently learning Terraform ( IaC ) , Azure Infrastructure 
+- Environment provisioning and automation by using Terraform and Terraspace
+- Application containerization with Docker ( DockerFile )
+- Running multi-container applications with Docker Compose
+- CI/CD ( Jenkins ) ( Azure Pipelines ) 
+- Container orchestiration with Kubernetes
+- Kubernetes service knowledge on AWS EKS , Azure AKS , Google Cloud GKE
+- Infrastructure security
+
+
 
 📫 You can contact me through ;
 
