@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I’m currently working as a Multi-Cloud & DevOps Engineer with the knowledge of multi-cloud providers such as Microsoft Azure , AWS and Google Cloud
+I’m currently working as a Cloud & DevOps Engineer with the knowledge of cloud providers such as Microsoft Azure , AWS and Google Cloud
 @ <a href="https://www.linkedin.com/company/deop/" target="_blank">Deop.Inc</a> 
 
 - Environment provisioning and automation by using Terraform and Terraspace
