@@ -10,9 +10,9 @@ I’m currently working as a Cloud & DevOps Engineer with the knowledge of cloud
 @ <a href="https://www.linkedin.com/company/deop/" target="_blank">Deop.Inc</a> 
 
 - Environment provisioning and automation by using Terraform and Terraspace
-- Application containerization with Docker ( DockerFile )
-- Running multi-container applications with Docker Compose
-- CI/CD ( Jenkins ) ( Azure Pipelines ) 
+- Application containerization with Docker 
+- Running multi-container applications 
+- CI/CD ( Jenkins ) ( Azure DevOps Pipelines ) ( Github-Actions )
 - Container orchestiration with Kubernetes
 - Kubernetes service knowledge on AWS EKS , Azure AKS , Google Cloud GKE
 - Infrastructure security
