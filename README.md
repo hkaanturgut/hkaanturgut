@@ -1,14 +1,8 @@
 
-<p align="left">
+<h1 align="center">Welcome to My GitHub Heaven!</h1>
  
-  ## Welcome to My GitHub Heaven!
-</p>
-<p>
- 
-
-<br>
-
-  <a href="https://www.linkedin.com/in/kaanturgut/" alt="Linkedin">
+<p align="center">
+  <a align="center" href="https://www.linkedin.com/in/kaanturgut/" alt="Linkedin">
     <img
       src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
   </a>
@@ -23,8 +17,8 @@
 ![image](https://user-images.githubusercontent.com/113396342/220500917-4ba98de1-b0ad-43d5-9156-64dc8e322fc9.png)
 
 
+<h1 align="center">My name is Kaan, and I am a Cloud & DevOps Engineer. I possess extensive experience in the following areas:</h1>
 
-## My name is Kaan and I'm Cloud & DevOps Engineer with experience in the following topics;
 
 
 
