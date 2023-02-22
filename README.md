@@ -22,20 +22,14 @@
 
 ![image](https://user-images.githubusercontent.com/113396342/220500917-4ba98de1-b0ad-43d5-9156-64dc8e322fc9.png)
 
-<div align="center">
-  <a href="https://www.enes.software/">
-    <img src="./icon/devops.gif">
-  </a>
-</div>
-
-![enes](gitartwork.svg)
 
 
 ## My name is Kaan and I'm Cloud & DevOps Engineer with experience in the following topics;
 
 
 
-### Environment Provisioning and Automation <img align="right" width="100" height="100" src="[http://www.fillmurray.com](https://slackmojis.com/emojis/2116-terraform#:~:text=.-,%3Aterraform%3A,-Other%20Logo%20Emojis)/100/100"> ![terraform](https://user-images.githubusercontent.com/113396342/220506681-c1330159-aad0-4c9b-b6d6-b99680d7a119.png)
+### Environment Provisioning and Automation <img align="right" width="100" height="100" src="">
+![terraform](https://user-images.githubusercontent.com/113396342/220506681-c1330159-aad0-4c9b-b6d6-b99680d7a119.png)
 
 As a specialist in infrastructure-as-code (IaC), I have extensive experience in provisioning and automating environments using tools like Terraform and Terraspace. 
 
