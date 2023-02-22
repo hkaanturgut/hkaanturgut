@@ -1,17 +1,10 @@
 
 <p align="left">
  
-  Welcome to My GitHub Heaven!
+  ## Welcome to My GitHub Heaven!
 </p>
 <p>
-   My name is Kaan and I'm Cloud & DevOps Engineer
-</p>
-<p align="left">
-  ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
-</p>
-<p align="left">
-  💼 DevOps & Automation & Orchestration  
-</p>
+ 
 
 <br>
 
@@ -37,23 +30,54 @@
 
 ![enes](gitartwork.svg)
 
-I’m currently working as a Cloud & DevOps Engineer with the knowledge of cloud providers such as Microsoft Azure , AWS and Google Cloud
-@ <a href="https://www.linkedin.com/company/deop/" target="_blank">Deop.Inc</a> 
 
-- Environment provisioning and automation by using Terraform and Terraspace
-- Application containerization with Docker 
-- Running multi-container applications 
-- CI/CD ( Jenkins ) ( Azure DevOps Pipelines ) ( Github-Actions )
-- Container orchestiration with Kubernetes
-- Kubernetes service knowledge on AWS EKS , Azure AKS , Google Cloud GKE
-- Infrastructure security
+# My name is Kaan and I'm Cloud & DevOps Engineer with experience in the following topics;
+
+## Environment Provisioning and Automation
+As a specialist in infrastructure-as-code (IaC), I have extensive experience in provisioning and automating environments using tools like Terraform and Terraspace. 
+
+## Application Containerization with Docker
+I am skilled in containerizing applications using Docker, creating images, and managing them using Docker commands. 
+
+## Running Multi-Container Applications
+I have experience running multi-container applications and can help you deploy and orchestrate them using Docker Compose and Kubernetes. 
+
+## CI/CD
+I have a strong understanding of continuous integration and continuous delivery (CI/CD) principles and tools such as Jenkins, Azure DevOps Pipelines, and Github-Actions. 
+
+## Container Orchestration with Kubernetes
+I have experience designing, deploying, and managing Kubernetes clusters, including AWS EKS, Azure AKS, and Google Cloud GKE, as well as building scalable, reliable, and secure applications that can run on any platform.
+
+## Infrastructure Security
+I have a deep understanding of infrastructure security with the services such as ; 
+- ### AWS Security Services
+Amazon GuardDuty,
+AWS WAF,
+Amazon Inspector,
+AWS Key Management Service (KMS),
+AWS Certificate Manager,
+AWS Identity and Access Management (IAM),
+AWS Secrets Manager,
+AWS Firewall Manager,
+AWS Shield
+- ### Azure Security Services
+Azure Security Center,
+Azure Firewall,
+Azure DDoS Protection,
+Azure Advanced Threat Protection,
+Azure Key Vault,
+Azure Active Directory (AD),
+Azure Information Protection,
+Azure Multi-Factor Authentication (MFA),
+Azure Sentinel
+
+## Let's Connect
+If you want to discuss any of these topics or work together on a project, please don't hesitate to reach out to me. You can contact and connect with me on  <a href="https://www.linkedin.com/in/kaanturgut/" target="_blank">My Linkedln Profile</a> .
 
 
 
-📫 You can contact me through ;
 
 
- <a href="https://www.linkedin.com/in/kaanturgut/" target="_blank">My Linkedln Profile</a> 
 
 
 <!--
