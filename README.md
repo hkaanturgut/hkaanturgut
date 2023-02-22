@@ -74,7 +74,7 @@ Azure Multi-Factor Authentication (MFA),
 Azure Sentinel
 #
 
-###  Let's Connect
+###  Let's Connect. <img align="right" width="100" height="100" src="./icons/linkedln.png">
 If you want to discuss any of these topics or work together on a project, please don't hesitate to reach out to me. You can contact and connect with me on  <a href="https://www.linkedin.com/in/kaanturgut/" target="_blank">My Linkedln Profile</a> .
 
 
