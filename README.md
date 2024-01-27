@@ -14,7 +14,8 @@
   </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/113396342/220500917-4ba98de1-b0ad-43d5-9156-64dc8e322fc9.png)
+![image](https://github.com/hkaanturgut/hkaanturgut/assets/113396342/bf84dde4-c983-457e-89d5-97cdb352eb4c)
+
 
 
 <h1 align="center">My name is Kaan, and I am a Cloud & DevOps Engineer. I possess extensive experience in the following areas:</h1>
