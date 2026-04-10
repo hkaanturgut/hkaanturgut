@@ -111,7 +111,7 @@ Deliver enterprise-grade cloud environments with **AI-powered DevOps automation*
 
 ## 🛠️ Core Expertise
 
-<details open>
+<details>
 <summary><b>Click to expand/collapse Tech Stack</b> (Click to see all technologies & tools)</summary>
 
 ### Cloud Platforms
