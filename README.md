@@ -44,16 +44,34 @@
 
 <div align="center">
 
-### Certifications & Recognition
+### 🏆 Certifications & Recognition
 
 <table>
-  <tr align="center">
-    <td width="50%"><img src="https://img.shields.io/badge/Microsoft%20AI%20MVP-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f6feb" alt="Microsoft AI MVP"/></td>
-    <td width="50%"><img src="https://img.shields.io/badge/Azure%20AI%20Engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f6feb" alt="Azure AI Engineer"/></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/Azure%20Solution%20Architect%20Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f6feb" alt="Azure Solution Architect Expert"/></td>
-    <td><img src="https://img.shields.io/badge/Microsoft%20DevOps%20Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f6feb" alt="Microsoft DevOps Expert"/></td>
+  <tr align="center" valign="top">
+    <td width="25%">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/ai-engineer/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/64f1ac47-42e7-46a4-88e7-8e8de7e1d8cd/azure_ai_engineer_associate_badge.png" width="120" height="120" alt="Azure AI Engineer Associate"/>
+      </a>
+      <p><b>Azure AI Engineer</b></p>
+    </td>
+    <td width="25%">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/solutions-architect-expert/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/1ad86f5f-245c-4b47-a7d8-16c7a0240f1d/azure_solutions_architect_expert_badge.png" width="120" height="120" alt="Azure Solutions Architect Expert"/>
+      </a>
+      <p><b>Azure Architect</b></p>
+    </td>
+    <td width="25%">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/0bedc58d-fb15-4646-9a3a-1b5ba99c60be/azure_devops_engineer_expert_badge.png" width="120" height="120" alt="Azure DevOps Engineer Expert"/>
+      </a>
+      <p><b>DevOps Expert</b></p>
+    </td>
+    <td width="25%">
+      <a href="https://mvp.microsoft.com/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-40d4-8c69-bca12e17142b/microsoft_mvp_award-01.png" width="120" height="120" alt="Microsoft MVP"/>
+      </a>
+      <p><b>Microsoft AI MVP</b></p>
+    </td>
   </tr>
 </table>
 
