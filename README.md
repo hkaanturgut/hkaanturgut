@@ -53,26 +53,6 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 
 ---
 
-## Tech Stack
-
-**Cloud** &nbsp; Azure | AWS | GCP | Oracle Cloud
-
-**Infrastructure as Code** &nbsp; Terraform | Bicep | Ansible | Packer
-
-**CI/CD** &nbsp; GitHub Actions | Azure DevOps | Jenkins | GitLab CI
-
-**Containers & Orchestration** &nbsp; Docker | Kubernetes | Helm | ArgoCD
-
-**AI & ML** &nbsp; Azure OpenAI | Azure AI Foundry | OpenAI | HuggingFace | MLflow
-
-**Monitoring & FinOps** &nbsp; Grafana | Prometheus | Azure Monitor | FinOps
-
-**Security** &nbsp; Azure Key Vault | Sentinel | tfsec | Checkov | SonarQube
-
-**Languages & Scripting** &nbsp; Python | PowerShell | Bash | YAML | HCL
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -82,9 +62,42 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 
 ---
 
-## Latest from YouTube
+<!-- YOUTUBE:START -->
+## YouTube
 
-[![Kaan Turgut YouTube Channel](https://github.com/user-attachments/assets/554ded69-e05b-4055-9d2d-a415d981407d)](https://www.youtube.com/@hkaanturgut)
+### Latest Videos
+
+<table><tr>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=k8OWQzyBDQA">
+<img src="https://i.ytimg.com/vi/k8OWQzyBDQA/hqdefault.jpg" alt="Find Your Dream Job While You Sleep! 😴" width="100%"/><br/>
+<strong>Find Your Dream Job While You Sleep! 😴</strong>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=WKJOmi9YSjM">
+<img src="https://i.ytimg.com/vi/WKJOmi9YSjM/hqdefault.jpg" alt="I let AI Apply to jobs for me | OpenClaw" width="100%"/><br/>
+<strong>I let AI Apply to jobs for me | OpenClaw</strong>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=dm0VqmFyrm4">
+<img src="https://i.ytimg.com/vi/dm0VqmFyrm4/hqdefault.jpg" alt="Build Your First AI Agent with Microsoft AI Foundry" width="100%"/><br/>
+<strong>Build Your First AI Agent with Microsoft AI Foundry</strong>
+</a>
+</td>
+</tr></table>
+
+### Most Watched
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=d2BWayItOv4">
+<img src="https://i.ytimg.com/vi/d2BWayItOv4/hqdefault.jpg" alt="Azure AI Foundry | Introduction & Hands-on Demo" width="50%"/><br/>
+<strong>Azure AI Foundry | Introduction & Hands-on Demo</strong><br/>
+<sub>15.4K views</sub>
+</a>
+</div>
+<!-- YOUTUBE:END -->
 
 ---
 
