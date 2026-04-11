@@ -2,6 +2,10 @@
 
 # Kaan Turgut
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=AI-Powered+DevOps;Cloud-Native+Architecture;Agentic+Workflows+%26+Automation" alt="Typing SVG" />
+</a>
+
 **Lead DevOps Engineer | Cloud-Native Strategist | AI + Infrastructure**
 
 Toronto, Canada | Lenovo
@@ -10,6 +14,7 @@ Toronto, Canada | Lenovo
 [![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hkaanturgut)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hkaanturgut)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaanturgutbusiness@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hkaanturgut&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -60,6 +65,18 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkaanturgut&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkaanturgut&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="100%" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hkaanturgut/hkaanturgut/output/github-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 <!-- YOUTUBE:START -->
@@ -98,6 +115,13 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 </a>
 </div>
 <!-- YOUTUBE:END -->
+
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
