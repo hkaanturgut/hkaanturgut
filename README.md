@@ -15,6 +15,16 @@ Toronto, Canada | Lenovo
 
 ---
 
+<div align="center">
+
+![Microsoft AI MVP](https://img.shields.io/badge/Microsoft_AI_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft AI Engineer](https://img.shields.io/badge/Azure_AI_Engineer_(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Solutions Architect](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
+
+---
+
 I architect and automate cloud infrastructure at scale across Azure, AWS, and GCP. My current focus is on **bringing AI into the DevOps lifecycle** — from intelligent CI/CD troubleshooting to agentic workflows that handle incidents autonomously.
 
 By day, I lead cloud-native strategy at Lenovo. By night, I build open-source tools and write about the intersection of **AI, infrastructure automation, and developer experience**.
