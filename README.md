@@ -15,13 +15,22 @@ Toronto, Canada | Lenovo
 
 ---
 
-<div align="center">
-
-![Microsoft AI MVP](https://img.shields.io/badge/Microsoft_AI_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft AI Engineer](https://img.shields.io/badge/Azure_AI_Engineer_(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Solutions Architect](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://images.credly.com/images/71ec124b-1646-4086-a241-1c32b7b31047/blob" width="120" alt="Microsoft AI MVP"/><br/>
+<strong>Microsoft AI MVP</strong>
+</td>
+<td align="center" width="200">
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Azure AI Engineer Associate"/><br/>
+<strong>Azure AI Engineer</strong><br/><sub>Associate (AI-102)</sub>
+</td>
+<td align="center" width="200">
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" alt="Azure Solutions Architect Expert"/><br/>
+<strong>Azure Solutions Architect</strong><br/><sub>Expert (AZ-305)</sub>
+</td>
+</tr>
+</table>
 
 ---
 
