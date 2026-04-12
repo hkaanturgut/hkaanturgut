@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- TERMINAL GIF HERO -->
+<img src="assets/terminal-boot.gif" alt="Terminal Boot" width="600"/>
+
+<br/>
+
 # Kaan Turgut
 
 <a href="https://git.io/typing-svg">
@@ -15,6 +20,12 @@ Toronto, Canada | Lenovo
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hkaanturgut)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaanturgutbusiness@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=hkaanturgut&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+
+<br/>
+
+```bash
+npx hkaanturgut
+```
 
 </div>
 
@@ -45,6 +56,58 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 
 ---
 
+## The Architecture of Kaan Turgut
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#58a6ff', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117'}}}%%
+
+graph LR
+    subgraph AI["🤖 AI & Agents"]
+        A1[Azure OpenAI]
+        A2[AI Foundry]
+        A3[Agentic Workflows]
+    end
+
+    subgraph CICD["⚡ CI/CD"]
+        C1[GitHub Actions]
+        C2[Azure DevOps]
+        C3[Jenkins]
+    end
+
+    subgraph IaC["🏗️ Infrastructure as Code"]
+        I1[Terraform]
+        I2[Bicep]
+        I3[Ansible]
+    end
+
+    subgraph Cloud["☁️ Cloud"]
+        CL1[Azure]
+        CL2[AWS]
+        CL3[GCP]
+    end
+
+    subgraph Runtime["🐳 Containers"]
+        R1[Docker]
+        R2[Kubernetes]
+        R3[Helm / ArgoCD]
+    end
+
+    subgraph Observe["📊 Observability"]
+        O1[Grafana]
+        O2[Prometheus]
+        O3[FinOps]
+    end
+
+    AI -->|intelligent automation| CICD
+    CICD -->|deploy| IaC
+    IaC -->|provision| Cloud
+    Cloud -->|host| Runtime
+    Runtime -->|metrics| Observe
+    Observe -->|feedback loop| AI
+```
+
+---
+
 ## Featured Projects
 
 | Project | What it does | Stack |
@@ -67,6 +130,14 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkaanturgut&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="100%" />
+</div>
+
+---
+
+## 3D Contribution Skyline
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Skyline" width="100%"/>
 </div>
 
 ---
@@ -122,6 +193,17 @@ By day, I lead cloud-native strategy at Lenovo. By night, I build open-source to
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## Guestbook
+
+Leave a message! [**Sign the guestbook**](https://github.com/hkaanturgut/hkaanturgut/issues/new?title=Guestbook:%20&body=Just%20replace%20the%20title%20with%20your%20message%20after%20%22Guestbook:%22)
+
+<!-- GUESTBOOK:START -->
+| Name | Message | Date |
+|------|---------|------|
+<!-- GUESTBOOK:END -->
 
 ---
 
